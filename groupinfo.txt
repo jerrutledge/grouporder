@@ -1,0 +1,10 @@
+15:00	MI	AB	UM	ATone	Tri	Committee	FGs
+9:23	UM	MI	Tri	ATone
+15:26	WB	ACE	AB	ATone	Tri
+16:36	ACE	WB	FGs
+12:41	AB	WB	MI	FGs	$5hair
+3:44	Tri	UM	WB	MI	FGs	$5hair
+3:05	FGs	ACE	MI	AB	$5hair	Tri
+2:30	$5hair	AB	FGs	Tri
+2:45	Committee	MI	ATone
+2:46	ATone	WB	MI	UM	Committee
